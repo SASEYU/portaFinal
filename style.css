@@ -9,7 +9,7 @@
 body{
     height: 100vh;
     box-sizing: border-box;
-    background-color: #9D0BE0;
+    background-color: var(--primary-color);
     color: #F6F6F6;
 }
 

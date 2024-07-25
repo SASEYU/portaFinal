@@ -13,7 +13,7 @@ body {
 
 /*VARIABLES CSS  almacena colores, tamaños, tipografias, etc*/
 :root {
-    --primary-color: black;
+    --primary-color: #9D0BE0;
     --secundary-color: yellow;
     --terciary-color: blue;
     --font-family: arial;
