@@ -1,0 +1,17 @@
+/*BASE CSS*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*VARIABLES CSS*/
+:root {
+    --primary-color: black;
+    --secundary-color: yellow;
+    --terciary-color: blue;
+    --font-family: arial;
+    --font-size-base: 16px;
+    --spacing-base: 8px;
+}
+
